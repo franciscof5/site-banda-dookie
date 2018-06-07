@@ -1,0 +1,38 @@
+_global.integrantes = 7;
+
+_global.banda1 = "<img src='fotos/integrantes/fluiz.jpg' height='90' width='90'/>" +
+titulo + "Luiz, vocal" + corpo + "msn:luizgustavoholtz@hotmail.com.br" + fim;
+
+_global.banda2 = "<img src='fotos/integrantes/flucas.jpg' height='90' width='90'/>" +
+titulo + "Lucas, bateria" + corpo + "msn:lucas_sad@hotmail.com.br" + fim;
+
+_global.banda3 = "<img src='fotos/integrantes/fvinicius.jpg' height='90' width='90'/>" +
+titulo + "Vinicius, guitarra" + corpo + "msn:vinicius_mayer@hotmail.com.br" + fim;
+
+_global.banda4 = "<img src='fotos/integrantes/fkayo.jpg' height='90' width='90'/>" +
+titulo + "Kayo, guitarra" + corpo + "msn:kayomariano@hotmail.com.br" + fim;
+
+_global.banda5 = "<img src='fotos/integrantes/ftg.jpg' height='90' width='90'/>" +
+titulo + "TG, baixo" + corpo + "msn:tiro_de_guerra@hotmail.com.br" + fim;
+
+_global.banda6 = "<img src='fotos/integrantes/fdouglas.jpg' height='90' width='90'/>" +
+titulo + "Douglas, agente" + corpo + "msn:sera_que_ele_tem@hotmail.com.br" + fim;
+
+_global.banda7 = "<img src='fotos/integrantes/fchico2.jpg' height='90px' width='90px'/>" +
+titulo + "Chico, TIC" + corpo + "msn:quentepostal@hotmail.com.br" + fim;
+
+
+_global.contatoTexto = //"<img src='dookie3d2.jpg' height='90' width='90'>";/* +
+titulo + "Luiz, vocal" + corpo + "msn:luizgustavoholtz@hotmail.com.br" + fim + "<br />" +
+"<img src='fotos/integrantes/flucas.jpg' height='90' width='90'/>" +
+titulo + "Lucas, bateria" + corpo + "msn:meu_nome_eh_lucas_sad@hotmail.com.br" + fim + "<br />" +
+"<img src='fotos/integrantes/fvinicius.jpg' height='90' width='90'/>" +
+titulo + "Vinicius, guitarra" + corpo + "msn:vinicius_mayer@hotmail.com.br" + fim + "<br />" +
+"<img src='fotos/integrantes/fkayo.jpg' height='90' width='90'/>" +
+titulo + "Kayo, guitarra" + corpo + "msn:kayomariano@hotmail.com.br" + fim + "<br />" +
+"<img src='fotos/integrantes/ftg.jpg' height='90' width='90'/>" +
+titulo + "TG, baixo" + corpo + "msn:tiro_de_guerra@hotmail.com.br" + fim + "<br />" +
+"<img src='fotos/integrantes/fdouglas.jpg' height='90' width='90'/>" +
+titulo + "Douglas, agente" + corpo + "msn:sera_que_ele_tem@hotmail.com.br" + fim + "<br />" +
+"<img src='fotos/integrantes/fchico2.jpg' height='90px' width='90px'/>" +
+titulo + "Chico, TIC" + corpo + "msn:quentepostal@hotmail.com.br" + fim;
